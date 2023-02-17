@@ -51,3 +51,6 @@ Untuk ruangan yang dilakukan uji coba, berdasarkan tabel konversi BTU maka AC le
 Interface Blynk dapat dilihat pada gambar berikut:
 
 ![image.png](https://github.com/Hendra92510/AC_IOT/blob/main/Dokumentasi/Blynk.png)
+
+Video Demo dapat dilihat di link berikut:
+https://drive.google.com/file/d/13wOZnZk3XRfqt5Yi-eVZ8-_u84_L6XZX/view?usp=sharing
