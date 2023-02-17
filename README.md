@@ -47,3 +47,7 @@ Untuk mengetahui tipe AC yang optimal digunakan didalam ruangan tersebut dapat m
 ![image.png](https://github.com/Hendra92510/AC_IOT/blob/main/Dokumentasi/tabel%20BTU.png)
 
 Untuk ruangan yang dilakukan uji coba, berdasarkan tabel konversi BTU maka AC lebih optimal jika ukuran PKnya adalah diantara 1/2PK dan 3/4PK.
+
+Interface Blynk dapat dilihat pada gambar berikut:
+
+![image.png](https://github.com/Hendra92510/AC_IOT/blob/main/Dokumentasi/Blynk.png)
