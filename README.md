@@ -3,7 +3,7 @@ Membuat kendali remot AC agar bisa digunakan melewati internet (Internet of Thin
 
 Rancang Bangun Kendali Air Conditioner berbasis IoT
 
-![image.png](https://github.com/Hendra92510/AC_IOT/blob/main/Dokumentasi/image.png)
+![image.png](https://github.com/Hendra92510/AC_IOT/blob/main/Dokumentasi/alat%20jadi.png)
 
 Project ini memanfaatkan kode blok setiap tombol AC target untuk kontrol AC. 
 Alat yang dibutuhkan antara lain:
